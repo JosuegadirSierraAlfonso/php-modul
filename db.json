@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "user": "pepito",
+            "name": "Pikachu",
+            "pwd": "H467",
+            "age": 60
+        },
+        {
+            "user": "marcos",
+            "name": "Miguel",
+            "pwd": 123,
+            "age": 23
+        }
+    ]
+}
